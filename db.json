@@ -1,0 +1,74 @@
+{
+   
+   "students" :[
+     {
+      "id" :1,
+      "name" :"Minhaj",
+      "age"  :20
+     },
+
+     {
+        "id" :2,
+        "name" :"Naim",
+        "age"  :22
+     },
+
+     {
+        "id" :3,
+        "name" :"Munsur",
+        "age"  :27
+     },
+
+     {
+        "id" :3,
+        "name" :"Munsur",
+        "age"  :25
+     },
+     
+     {
+        "id" :3,
+        "name" :"Munsur",
+        "age"  :28
+     }
+
+   ],
+
+   "teacher" :[
+      {
+        "id"    :1,
+        "name"  :"Mushfiq",
+        "age"   :26,
+        "skill" :"IOS"
+      },
+      
+      {
+        "id"    :2,
+        "name"  :"Asraful",
+        "age"   :35,
+        "skill" :"LARAVEL"
+      },
+      
+      {
+        "id"    :3,
+        "name"  :"Zillur",
+        "age"   :28,
+        "skill" :"PYTHON"
+      },
+      
+      {
+        "id"    :4,
+        "name"  :"Milon",
+        "age"   :22,
+        "skill" :"PHP"
+      },
+      
+      {
+        "id"    :5,
+        "name"  :"Munsur",
+        "age"   :42,
+        "skill" :"PHP"
+      }  
+   ]
+
+}
+
